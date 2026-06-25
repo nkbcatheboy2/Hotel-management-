@@ -170,7 +170,7 @@
                         <div class="d-flex align-items-center">
                             <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg" style="width: 45px; height: 45px;">
                             <div class="ps-3">
-                                <h6 class="fw-bold mb-1">Client Name</h6>
+                                <h6 class="fw-bold mb-1">Devansh Travedi</h6>
                                 <small>Profession</small>
                             </div>
                         </div>
@@ -181,7 +181,7 @@
                         <div class="d-flex align-items-center">
                             <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg" style="width: 45px; height: 45px;">
                             <div class="ps-3">
-                                <h6 class="fw-bold mb-1">Client Name</h6>
+                                <h6 class="fw-bold mb-1">RAjesh Arora</h6>
                                 <small>Profession</small>
                             </div>
                         </div>
@@ -192,7 +192,7 @@
                         <div class="d-flex align-items-center">
                             <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-3.jpg" style="width: 45px; height: 45px;">
                             <div class="ps-3">
-                                <h6 class="fw-bold mb-1">Client Name</h6>
+                                <h6 class="fw-bold mb-1">Parbindar kaur</h6>
                                 <small>Profession</small>
                             </div>
                         </div>
@@ -239,7 +239,7 @@
                         <h6 class="section-title text-start text-primary text-uppercase mb-4">Contact</h6>
                         <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Location, City, Country</p>
                         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 7897130369</p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>nmbs1013@gmail.com</p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>ldaerp123@gmail.com</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
